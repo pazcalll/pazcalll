@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Golang (Echo)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pazcalll](https://github.com/pazcalll)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/pazcalll)
 
-- 📫 How to reach me **yazeedarifin@gmail.com**
+- 📫 How to reach me [Gmail](yazeedarifin@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yazeed-qholili-arifin-304728193/](https://www.linkedin.com/in/yazeed-qholili-arifin-304728193/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/yazeed-qholili-arifin-304728193/)
 
 - ⚡ Fun fact **I think I am pretty good at badminton**
 
