@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yazeed Qholili Arifin</h1>
 <h3 align="center">A passionate backend developer with fullstack knowledge from Indonesia. My current development stack is Laravel-jQuery and I still willing to learn more programming technologies in the future especially for backend.</h3>
 
-- 🔭 I’m currently working on [Wadul Guse Project](https://github.com/pazcalll/lapor)
-
-- 🌱 I’m currently learning **Golang (Echo)**
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/pazcalll)
 
 - 📫 How to reach me [Gmail](yazeedarifin@gmail.com)
