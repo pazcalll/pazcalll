@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yazeed Qholili Arifin</h1>
-<h3 align="center">A passionate backend developer with fullstack knowledge from Indonesia. My current development stack is Laravel-jQuery and I still willing to learn more programming technologies in the future especially for backend.</h3>
+<h3 align="center">I am a dedicated Software Engineer with experience, specializing in the PHP Laravel framework and adept in utilizing technologies like jQuery, Bootstrap, and SQL to design and develop robust web applications. Proficient in database management, API integration, and server-side architecture, I am committed to delivering high-quality code and seamless user experiences. Eager to contribute my skills and enthusiasm to your team, I am excited about the opportunity to collaborate on innovative software solutions.
+</h3>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/pazcalll)
 
 - 📫 How to reach me [Gmail](yazeedarifin@gmail.com)
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/yazeed-qholili-arifin-304728193/)
-
-- ⚡ Fun fact **I think I am pretty good at badminton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
